@@ -52,7 +52,7 @@ Expected Output:
 
 
 /*
-Task 3: Quiz Evaluator 📚📚📚📚
+STRETCH: Task 3: Quiz Evaluator 📚📚📚📚
 
 You are building a quiz system. Write a function called `evaluateAnswer` that:
 1. Takes a question, a correct answer, and a callback function as arguments.
